@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CIJEN11
 - 👀 I’m interested in JAVA, SQL, JavaScript.
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on JAVA
+- 🌱 I’m currently learning JAVA and JavaScript
+  - 💞️ I’m looking to collaborate on JAVA
 - 📫 How to reach me cijen11@gmail.com
 - 😄 Pronouns: Arek
 - ⚡ Fun fact: I speak Hebrew
