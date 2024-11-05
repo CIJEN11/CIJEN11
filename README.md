@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CIJEN11
-- 👀 I’m interested in JAVA, SQL, JavaScript.
+- 👀 I’m interested in JAVA, SQL, JavaScript,Node.js.
 - 🌱 I’m currently learning JAVA and JavaScript
   - 💞️ I’m looking to collaborate on JAVA
 - 📫 How to reach me cijen11@gmail.com
